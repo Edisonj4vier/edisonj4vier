@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**Edisonj4vier/edisonj4vier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm **edisonj4vier**
 
-Here are some ideas to get you started:
+My name's Edison, I'm 23 years old, I'm from **Ecuador**
+estudent for **Software Enginner**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Commands from terminal
+| Commands | Description |
+| ------- | ----------- |
+| ls      | show the elements have a directory |
+| pwd     | show where are you |
+| cd      | Allows us to navigate between folders |
+| mkdir   | Create a new folder given a name for that folder |
+| rm -r   | Allows us to delete a folder given a path |
+
+### Terminal alias commands
+| Commands | Description |
+| -------- | ----------- |
+|  rm      | To avoid permanent deletion of files |
+|  cl      | delete all session commands |
