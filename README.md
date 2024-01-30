@@ -2,8 +2,9 @@
 
 ## I'm **edisonj4vier**
 
-My name's Edison, I'm 23 years old, I'm from **Ecuador**
-estudent for **Software Enginner**
+My name's **Edison**, I'm 23 years old, and I'm from **Ecuador**.
+
+Student for **Software Engineer**
 
 ### Commands from terminal
 | Commands | Description |
